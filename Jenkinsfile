@@ -1,5 +1,5 @@
 agent any{
-  stages{
+  stage{
     stage{
       step{
         print("test case")
